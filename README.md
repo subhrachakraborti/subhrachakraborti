@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Subhra Chakraborti.
 - 👀 I’m mainly interested in Science and also HTML.
 - 🌱 I’m currently learning Java.
-- 📫 You can reach me by Email - hiilovescience@gmail.com
 
 Thank You!
 
