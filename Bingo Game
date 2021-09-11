@@ -1,0 +1,30 @@
+import java.util.*;
+class Bingo
+{
+    public static void main()
+    {
+        Scanner in = new Scanner (System.in);
+        System.out.println("If You Want To Start Enter 'Y'.");
+            char b=in.next().charAt(0);
+        do
+        {
+        int c =(int) ((Math.random()*(9))+1);
+        System.out.println("Enter Your Number.");
+        int temp = in.nextInt();
+        if(temp==c)
+        System.out.println("Yes! Bingo! You Won!");
+        else
+        System.out.println("You Lose! Computer Chose"+c);
+        System.out.println("If You Want To Do It Again Enter 'Y'.");
+            char e=in.next().charAt(0);
+        if(e=='Y')
+        {
+            continue;
+        }
+        else
+        {
+            break;
+        }
+        }while(b=='Y');
+    }
+}
