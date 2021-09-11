@@ -1,0 +1,16 @@
+import java.util.*;
+class Bingo2
+{
+    public static void main()
+    {
+        Scanner in = new Scanner(System.in);
+        System.out.println("Enter Your Number.");
+        int a = in.nextInt(); int b;
+        do{
+            b = (int) ((Math.random()*(9))+1);
+            System.out.println(b);
+        }while(a!=b) ;
+        if (a==b)
+        System.out.println("Bingo!");
+    }
+}
