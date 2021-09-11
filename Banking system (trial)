@@ -1,0 +1,115 @@
+import java.util.*;
+class swiss_bank
+{
+    public static void main ()
+    {
+       Scanner sc= new Scanner (System.in);
+       System.out.println ("Welcome To The ATM of SWISS BANK.");
+       System.out.println ("Enter 1 for Current Account.");
+       System.out.println ("Enter 2 for Savings Account.");
+       int a=sc.nextInt();
+       switch(a)
+       {
+           case 1:
+               System.out.println ("You Can Withdraw upto Rs.50000/day or can deposit Rs.100000/day");
+               System.out.println ("Enter 3 to Withdraw, 4 to Deposit or 5 to Check Your Balance");
+               int b=sc.nextInt();
+               switch (b)
+               {
+                   case 3:
+                       {
+                           System.out.println("if You Want Receipt Enter 1 or else Enter 0.");
+                           int c=sc.nextInt();
+                           switch (c)
+                           {
+                               case 1:
+                                   System.out.println ("Your Receipt Is In The Box!");
+                               break;
+                               case 0:
+                                   System.out.println ("OK! Fine. See u Again!");
+                               break;
+                               default:
+                                   System.out.println ("OPPS! Invalid Response!");
+                                   
+                          }
+                        }
+                         break;
+                    case 4:
+                        {
+                           System.out.println("if You Want Receipt Enter 1 or else Enter 0.");
+                           int c=sc.nextInt();
+                           switch (c)
+                           {
+                               case 1:
+                                   System.out.println ("Your Receipt Is In The Box!");
+                               break;
+                               case 0:
+                                   System.out.println ("OK! Fine. See u Again!");
+                               break;
+                               default:
+                                   System.out.println ("OPPS! Invalid Response!");
+                                   
+                          }
+                        }
+                        break;
+                    case 5:
+                        System.out.println ("Your Balance Is Rs.0");
+                        break;
+                    default:
+                        System.out.println ("OPPS! Invalid Response!");
+                        
+                        
+                       }
+               break;
+               case 2:
+               System.out.println ("You Can Withdraw upto Rs.10000/day or can deposit Rs.15000/day");
+               System.out.println ("Enter 3 to Withdraw, 4 to Deposit or 5 to Check Your Balance");
+               int d = sc.nextInt();
+               switch (d)
+               {
+                   case 3:
+                       {
+                           System.out.println("if You Want Receipt Enter 1 or else Enter 0.");
+                           int c=sc.nextInt();
+                           switch (c)
+                           {
+                               case 1:
+                                   System.out.println ("Your Receipt Is In The Box!");
+                               break;
+                               case 0:
+                                   System.out.println ("OK! Fine. See u Again!");
+                               break;
+                               default:
+                                   System.out.println ("OPPS! Invalid Response!");
+                          }
+                        }
+                         break;
+                    case 4:
+                        {
+                           System.out.println("if You Want Receipt Enter 1 or else Enter 0.");
+                           int c=sc.nextInt();
+                           switch (c)
+                           {
+                               case 1:
+                                   System.out.println ("Your Receipt Is In The Box!");
+                               break;
+                               case 0:
+                                   System.out.println ("OK! Fine. See u Again!");
+                               break;
+                               default:
+                                   System.out.println ("OPPS! Invalid Response!");
+                          }
+                        }
+                        break;
+                    case 5:
+                        System.out.println ("Your Balance Is Rs.0");
+                        break;
+                    default:
+                        System.out.println ("OPPS! Invalid Response!");
+                        
+                       }break;
+                       default:
+                           System.out.println ("OOPS! Invalid Response!");
+       }
+    }
+}
