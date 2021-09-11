@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<HEAD>
+<TITLE>THANK YOU MESSAGE!</TITLE>
+<STYLE TYPE="TEXT/CSS">
+.B {
+    background: #C0C0C0;
+    width: 700px;
+    border-radius: 5px;
+    margin: 0 auto;
+    display: table;
+    padding: 15px 30px 30px ;
+    box-sizing: border-box; 
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.05), 0 6px 20px 0 rgba(0, 0, 0, 0.09);
+	margin-top: 6%;
+	margin-bottom:20px;
+	}
+	</STYLE>
+</HEAD>
+<BODY>
+<DIV CLASS=B><H1><P ALIGN=CENTER>THANK YOU FOR REGISTERING WITH US!</H1></P>
+<BR><BR><BR>
+<H3><P ALIGN=CENTER>WELOCOME TO OUR WORLD!</P></H3>
+<H2><P ALIGN=CENTER>A WORLD OF PEOPLE.</P></H2>
+<BR><BR><BR>
+<P ALIGN=CENTER><A HREF="https://myspacebook.data.blog/" TARGET="_BLANK"><BUTTON CLASS="CONTINUE" COLOUR=BLUE>CONTINUE</BUTTON>
+</A></P></DIV>
+</BODY>
+</HTML>
