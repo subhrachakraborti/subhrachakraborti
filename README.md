@@ -30,9 +30,3 @@
 <div width="100%" align="center"><a href="https://github.com/subhrachakraborti/Class-X" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=subhrachakraborti&repo=Class-X&title_color=3382ed&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/subhrachakraborti/Class-XII" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=subhrachakraborti&repo=Class-XII&title_color=3382ed&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
 
 <div width="100%" align="center"><a href="https://github.com/subhrachakraborti/PyCersi" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=subhrachakraborti&repo=PyCersi&title_color=3382ed&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/subhrachakraborti/my-site" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=subhrachakraborti&repo=my-site&title_color=3382ed&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-<b>Streak Stats</b>
-<br/><br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=subhrachakraborti&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
