@@ -1,23 +1,116 @@
-## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SUBHRA CHAKRABORTI
-![](https://komarev.com/ghpvc/?username=subhrachakraborti&color=blueviolet)
-
-### Astrophile - Science Guy - Coder - AI Person
-
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [Website](http://subhrachakraborti.com)
-* ✉️  You can contact me at [mail@subhrachakraborti.com](mailto:mail@subhrachakraborti.com)
-
-<a href="https://www.buymeacoffee.com/subhra" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 145px !important;" ></a>
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
+<!-- Profile Header -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=7A5CFF&center=true&vCenter=true&width=600&lines=Welcome+To+The+SubhraVerse!;">
 </p>
 
+<h1 align="center">Hi 👋 I'm Subhra Chakraborti</h1>
+<h3 align="center">Astrophile • Science Enthusiast • Developer • AI Explorer</h3>
 
-### Socials
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=subhrachakraborti&label=Profile%20views&color=blueviolet&style=flat" alt="subhrachakraborti" />
+</p>
 
-<p align="left"><a href="https://www.codepen.io/subhrachakraborti" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></picture></a> <a href="https://www.dev.to/subhrachakraborti" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></picture></a> <a href="https://www.github.com/subhrachakraborti" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></picture></a> <a href="http://www.instagram.com/subhra.chakraborti.7" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></picture></a> <a href="https://www.linkedin.com/in/subhrachakraborti" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></picture></a> <a href="https://www.x.com/Subhra_05" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></picture></a> <a href="https://www.youtube.com/@subhrachakraborti" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></picture></a> <a href="https://www.threads.net/@subhra.chakraborti.7" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /></picture></a></p>
+---
+
+# 🚀 About Me
+
+- 🌍 Based in **India**
+- 🧠 Curious about **Astrophysics, Artificial Intelligence, and Emerging Technologies**
+- 💻 I enjoy **coding, experimenting with ideas, and building digital projects**
+- 🌌 Passionate about **science, the universe, and future technology**
+
+🔗 Portfolio  
+https://subhrachakraborti.com/portfolio
+
+📫 Contact  
+mail@subhrachakraborti.com
+
+---
+
+# ☕ Support My Work
+
+<a href="https://www.buymeacoffee.com/subhra">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50">
+</a>
+
+---
+
+# 🧰 Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs" />
+</p>
+
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,firebase,debian,linux,wordpress" />
+</p>
+
+### Web & Builders
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,scss,cloudflare,vercel,netlify" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=subhrachakraborti&show_icons=true&theme=tokyonight&hide_border=true">
+<br/>
+<img src="https://streak-stats.demolab.com?user=subhrachakraborti&theme=tokyonight&hide_border=true">
+
+</p>
+
+---
+
+# 📈 Top Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhrachakraborti&layout=compact&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/subhrachakraborti"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
+<a href="https://linkedin.com/in/subhrachakraborti"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
+<a href="https://x.com/Subhra_05"><img src="https://skillicons.dev/icons?i=twitter" height="40"></a>
+<a href="https://youtube.com/@subhrachakraborti"><img src="https://skillicons.dev/icons?i=youtube" height="40"></a>
+
+</p>
+
+---
+
+# 🧠 Current Interests
+
+- Artificial Intelligence  
+- Astrophysics  
+- Programming  
+- Future Technology  
+- Scientific Exploration  
+
+---
+
+# ⚡ Fun Fact
+
+> The universe is not only stranger than we imagine — it is stranger than we *can* imagine.
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/subhrachakraborti/subhrachakraborti/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+<p align="center">
+⭐ From <a href="https://github.com/subhrachakraborti">Subhra Chakraborti</a>
+</p>
