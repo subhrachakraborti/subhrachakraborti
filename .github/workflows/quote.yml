@@ -1,0 +1,39 @@
+name: Quote of the Day
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs once daily at midnight UTC
+  workflow_dispatch:       # Allow manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Fetch random quote
+        run: |
+          curl -s https://zenquotes.io/api/random > quote.json
+          QUOTE=$(jq -r '.[0].q' quote.json)
+          AUTHOR=$(jq -r '.[0].a' quote.json)
+          echo "> $QUOTE — *$AUTHOR*" > quote.md
+
+      - name: Update README
+        run: |
+          # Replace the section between <!--QUOTE_START--> and <!--QUOTE_END-->
+          awk '
+            BEGIN {inquote=0}
+            /<!--QUOTE_START-->/ {print; system("cat quote.md"); inquote=1; next}
+            /<!--QUOTE_END-->/ {inquote=0}
+            !inquote {print}
+          ' README.md > README.new
+          mv README.new README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update daily quote"
+          git push
