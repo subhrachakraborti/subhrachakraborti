@@ -39,17 +39,17 @@ mail@subhrachakraborti.com
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,mysql" />
 </p>
 
 ### Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,firebase,debian,linux,wordpress" />
+<img src="https://skillicons.dev/icons?i=vscode,firebase,debian,ubuntu,mint,linux,wordpress" />
 </p>
 
 ### Web & Builders
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,scss,cloudflare,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=html,css,scss,cloudflare,vercel,netlify,ai" />
 </p>
 
 ---
