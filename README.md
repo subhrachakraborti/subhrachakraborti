@@ -58,8 +58,6 @@ mail@subhrachakraborti.com
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=subhrachakraborti&show_icons=true&theme=tokyonight&hide_border=true">
-<br/>
 <img src="https://streak-stats.demolab.com?user=subhrachakraborti&theme=tokyonight&hide_border=true">
 
 </p>
