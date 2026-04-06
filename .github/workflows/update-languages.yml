@@ -2,7 +2,7 @@ name: Update Top Languages in README
 
 on:
   schedule:
-    - cron: '0 0 * * 0' # Runs weekly
+    - cron: '0 0 * * 0' # weekly
   workflow_dispatch:
 
 jobs:
@@ -12,19 +12,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch language stats
-        uses: anuraghazra/github-readme-stats@latest
-        with:
-          username: subhrachakraborti
-          show_icons: true
-          include_all_commits: true
-          count_private: true
-          layout: compact
-          theme: radical
-          hide_border: true
-          custom_title: "Top Languages by Usage"
-
-      - name: Generate language summary
+      - name: Fetch language stats via API
         run: |
           curl -s "https://api.github.com/users/subhrachakraborti/repos?per_page=100" \
           | jq -r '[.[] | .language] | group_by(.) | map({lang: .[0], count: length}) | sort_by(-.count)' \
@@ -33,7 +21,7 @@ jobs:
       - name: Update README.md
         run: |
           echo "## 🧠 Top Languages Used" > temp.md
-          awk '{print "- " $0 "%"}' languages.txt >> temp.md
+          awk '{print "- " $0}' languages.txt >> temp.md
           sed -i '/## 🧠 Top Languages Used/,$d' README.md
           cat temp.md >> README.md
           rm temp.md languages.txt
