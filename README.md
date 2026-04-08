@@ -58,7 +58,7 @@ mail@subhrachakraborti.com
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=subhrachakraborti&theme=tokyonight&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=subhrachakraborti&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -67,7 +67,8 @@ mail@subhrachakraborti.com
 # 📈 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhrachakraborti&layout=compact&theme=tokyonight&hide_border=true">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhrachakraborti&theme=city_lights" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhrachakraborti&theme=city_lights" />
 </p>
 
 ---
