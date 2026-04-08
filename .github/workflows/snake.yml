@@ -9,12 +9,12 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@3202fa1b4c9e8f7a6b1234567890abcdef1234567
+      - uses: Platane/snk@e2cedf76a2c05b25d09a6428ded69727b497a700
         with:
           github_user_name: subhrachakraborti
           outputs: |
             dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@df5cc2b4a1e8f7a6b1234567890abcdef1234567
+      - uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4
         with:
           target_branch: output
           build_dir: dist
