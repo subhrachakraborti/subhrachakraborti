@@ -58,6 +58,8 @@ mail@subhrachakraborti.com
 
 <p align="center">
 
+<img src="https://ghstats.dev/api/card?username=subhrachakraborti&theme=ocean&hide_border=true&custom_title=GitHub+Stats&size=compact&order=stars%2Crepos%2Cprs%2Cissues%2Chours%2Cweek%2Ccontributions%2Cstreak%2Ccommits%2Ctrend%2Cavg%2Cactive_day%2Cgrade%2Cfollowers" alt="GitHub Stats Card" />
+<br/>
 <img src="https://streak-stats.demolab.com?user=subhrachakraborti&theme=tokyonight&hide_border=true" />
 
 </p>
@@ -67,8 +69,8 @@ mail@subhrachakraborti.com
 # 📈 Top Languages
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhrachakraborti&theme=city_lights" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhrachakraborti&theme=city_lights" />
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhrachakraborti&theme=city_lights" /> -->
+<img src="https://ghstats.dev/api/langs?username=subhrachakraborti&theme=radical&hide_border=true&max_langs=5" alt="Top Languages" />
 </p>
 
 ---
